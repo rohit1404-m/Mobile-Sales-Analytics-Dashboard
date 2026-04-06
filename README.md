@@ -94,7 +94,8 @@ Businesses often struggle to:
 ---
 
 ## Dashboard Preview
-![PBD01](https://github.com/user-attachments/assets/051384b8-f988-4e7f-b0b2-43ef26300343)
+<img width="1448" height="813" alt="image" src="https://github.com/user-attachments/assets/0fdd1ac7-b2a8-426c-b098-f5472a1a074a" />
+
 ![PBD02](https://github.com/user-attachments/assets/f36e38b1-aecb-4cf2-8b34-6e23a4f993ff)
 ![PBD03](https://github.com/user-attachments/assets/8f3e627f-dffe-4e20-95b2-f1e8f4fd9461)
 
